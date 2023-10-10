@@ -19,6 +19,9 @@ Heaton, R., Hummel, J., Lleras, A., & Buetti, S. (2020). A computational account
 
 as well as the persistent DOI in the README.md file in this repository.
 
+<a href="https://zenodo.org/badge/latestdoi/703054287"><img src="https://zenodo.org/badge/703054287.svg" alt="DOI"></a>
+
+
 # To run this code:
 Use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
 For example:
