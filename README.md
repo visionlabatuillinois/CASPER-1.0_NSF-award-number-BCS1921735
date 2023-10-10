@@ -16,5 +16,6 @@ The model was subsequently developed and written by Rachel F Heaton.
 Heaton, R., Hummel, J., Lleras, A., & Buetti, S. (2020). A computational account of serial and parallel processing in visual search. Journal of Vision, 20(11), 844-844.
 
 # To run this code:
-Use Python 3 to run MainInterface.py and follow the prompts.
+Use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
+For example, python3 ./mainInterface.py
 
