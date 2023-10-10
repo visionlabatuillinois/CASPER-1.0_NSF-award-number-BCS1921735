@@ -17,5 +17,7 @@ Heaton, R., Hummel, J., Lleras, A., & Buetti, S. (2020). A computational account
 
 # To run this code:
 Use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
-For example, python3 ./mainInterface.py
+For example:
+
+python3 ./mainInterface.py
 
