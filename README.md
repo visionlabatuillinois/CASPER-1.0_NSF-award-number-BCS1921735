@@ -1,5 +1,6 @@
 # search-model
-# Model of visual search written and developed by Rachel F Heaton and John E Hummel
+# Model of visual search 
+# Written and developed by Rachel F Heaton and John E Hummel
 
 * Copyright 2023 The Board of Trustees of the University of Illinois. All Rights Reserved.
 * Licensed under the terms of the Apache License 2.0 license (the "License")
