@@ -14,7 +14,8 @@ This model of visual search was first developed and written by John E Hummel in 
 The model was subsequently developed and written by Rachel F Heaton.
 # If this work is used in scientific research, please cite:
 Heaton, R., Hummel, J., Lleras, A., & Buetti, S. (2020). A computational account of serial and parallel processing in visual search. Journal of Vision, 20(11), 844-844.
-and the persistent DOI in the README.md file in this repository.
+
+as well as the persistent DOI in the README.md file in this repository.
 
 # To run this code:
 Use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
