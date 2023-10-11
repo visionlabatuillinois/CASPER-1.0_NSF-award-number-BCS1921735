@@ -23,7 +23,12 @@ as well as the persistent DOI in the README.md file in this repository.
 
 
 # To run this code:
-Use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
+
+1. Install Python 3.
+
+2. Make sure that pygame is installed 
+
+3. Use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
 For example:
 
 python3 ./mainInterface.py
