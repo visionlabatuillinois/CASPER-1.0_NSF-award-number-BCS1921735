@@ -33,7 +33,7 @@ This material is based upon work supported by the National Science Foundation un
 
 2. Make sure that pygame is installed 
 
-3. Use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
+3. Open a terminal and use your Python 3 interpreter to run MainInterface.py in the directory where you have downloaded the code and follow the prompts.
 For example:
 
 python3 ./mainInterface.py
