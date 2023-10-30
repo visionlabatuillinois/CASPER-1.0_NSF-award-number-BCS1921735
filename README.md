@@ -22,7 +22,7 @@ as well as the persistent DOI in the README.md file in this repository.
 
 # Acknowledgements
 
-This material is based upon work supported by the National Science Foundation under Grant No. BCS1921735
+This work was supported by a 2019 grant from the National Science Foundation to Simona Buetti (PI) under award number BCS1921735 (Hummel and Lleras, Co-PIs), CompCog: Template Contrast and Saliency (TCAS) Toolbox: a tool to visualize parallel attentive evaluation of scenes.
 
 
 
