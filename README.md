@@ -1,6 +1,7 @@
-# search-model
-# Model of visual search 
-# Written and developed by Rachel F Heaton and John E Hummel
+# CASPER (Concurrent Attention: Serial and Parallel Evaluative Rejection model of visual search).
+# Conceptualization: Simona Buetti, John E Hummel, Alejandro Lleras, and Rachel F Heaton .
+# Software: John E Hummel and Rachel F Heaton.
+
 
 * Copyright 2023 The Board of Trustees of the University of Illinois. All Rights Reserved.
 * Licensed under the terms of the Apache License 2.0 license (the "License")
@@ -11,8 +12,6 @@
 * See the License for the specific language governing permissions and limitations under the License.
 
 
-This model of visual search was first developed and written by John E Hummel in 2018.
-The model was subsequently developed and written by Rachel F Heaton.
 
 # If this work is used in academic research, please cite:
 Heaton, R., Hummel, J., Lleras, A., & Buetti, S. (2020). A computational account of serial and parallel processing in visual search. Journal of Vision, 20(11), 844-844.
