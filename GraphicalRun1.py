@@ -1,4 +1,3 @@
-# CASPER-1.0 developed under NSF-award-number-BCS1921735   
 
 try:
     import pygame, sys, math  # , AttentionModel1, MainInterface
