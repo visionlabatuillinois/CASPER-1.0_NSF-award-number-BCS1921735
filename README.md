@@ -9,7 +9,6 @@ Software: John E Hummel and Rachel F Heaton.
 Heaton, R., Hummel, J., Lleras, A., & Buetti, S. (2020). A computational account of serial and parallel processing in visual search. Journal of Vision, 20(11), 844-844.
 
 
-
 # To run this code
 1. Install Python 3.
 2. Make sure that pygame is installed 
