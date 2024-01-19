@@ -1,4 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+- family-names: "Heaton"
+  given-names: "Rachel"
+- family-names: "Hummel"
+  given-names: "John"
+- family-names: "Lleras"
+  given-names: "Alejandro"
+- family-names: "Buetti"
+  given-names: "Simona"
 title: "CASPER-1.0"
 url: "https://github.com/visionlabatuillinois/CASPER-1.0_NSF-award-number-BCS1921735"
